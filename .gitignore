@@ -1,0 +1,9 @@
+config.cpython-311.pyc
+bin
+etc
+include
+lib
+lib64
+pyvenv.cfg
+share
+setup_project.sh
